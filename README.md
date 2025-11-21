@@ -1,4 +1,4 @@
-# Sistema de Medicamentos para Idosos e Pessoas com Doenças Crôinicas
+# Sistema de Medicamentos para Idosos e Pessoas com Doenças Crônicas
 
 Sistema de auxílio para monitoramento de administração de medicamentos
 
